@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom
+**/data/*.csv
+**/.vscode
+Makefile
+/.Jupyter
+/.local
+/.ipython
+/.kaggle
+/.ssh
+/.shh
+/.config
+.bash_history
+output*
